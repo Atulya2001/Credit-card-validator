@@ -19,4 +19,4 @@ Step4:- If the total sum of all the digits modulo 10(i.e total_sum % 10) is equa
 
 Output:-
 
-![Screenshot (97)](https://user-images.githubusercontent.com/74313477/172047841-c43d5aa1-a768-4222-832b-def52cfb4a4f.png)
+
