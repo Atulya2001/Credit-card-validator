@@ -16,4 +16,7 @@ Step2:- If doubling of a number results in a two digit number i.e greater than 9
 Step3:- Now take the sum of all the digits.
 
 Step4:- If the total sum of all the digits modulo 10(i.e total_sum % 10) is equal to 0 (if the total ends in zero) then the number is valid according to the Luhn formula; else it is invalid.
+
+Output:-
+
 ![Screenshot (97)](https://user-images.githubusercontent.com/74313477/172047841-c43d5aa1-a768-4222-832b-def52cfb4a4f.png)
