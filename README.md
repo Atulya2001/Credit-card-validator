@@ -17,6 +17,8 @@ Step3:- Now take the sum of all the digits.
 
 Step4:- If the total sum of all the digits modulo 10(i.e total_sum % 10) is equal to 0 (if the total ends in zero) then the number is valid according to the Luhn formula; else it is invalid.
 
+![Luhn algo](https://user-images.githubusercontent.com/74313477/172048283-90301670-cdf5-4dac-9753-a4287f62d1df.jpg)
+
 Output:-
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/74313477/172048190-37401d83-b550-4c2d-a465-c54b65cb085f.png)
